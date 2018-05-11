@@ -28,3 +28,4 @@ Master
          +--  change_ip_and_mac.sh  -  Changes the MAC address and IP of the ZedBoard based on the parameter it is given
 ```
 # Soc_Project
+# Soc_Project
